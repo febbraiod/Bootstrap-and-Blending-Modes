@@ -1,0 +1,135 @@
+html {
+  min-height: 100%;
+}
+
+body {
+  min-height: 100%;
+  font-family: Karla;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 16vw;
+  line-height: 1em;
+}
+
+.blender {
+  position: absolute;
+  z-index: 1;
+}
+
+#whitetype{
+  color: white;
+}
+
+#redtype{
+  color: red;
+}
+
+#greentype{
+  color: green;
+}
+
+#bluetype{
+  color: blue;
+}
+
+#cyantype{
+  color: cyan;
+}
+
+#magentatype{
+  color: magenta;
+}
+
+#yellowtype{
+  color: yellow;
+}
+
+#blacktype{
+  color: black;
+}
+
+.tothefloor {
+  padding-bottom: 100%;
+}
+
+.red {
+  background-color: red;
+}
+
+.redorange {
+  background-color: #ff5400;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.lightgreen {
+  background-color: #c0ff00;
+}
+
+.green{
+  background-color: green;
+}
+
+.periwinkle{
+  background-color: #00ffd2;
+}
+
+.skyblue {
+  background-color: #00eaff;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.indigo {
+  background-color: indigo;
+}
+
+.violet {
+  background-color: violet;
+}
+
+.purple {
+  background-color: purple;
+}
+
+/*
+#color_darkener{
+  position: absolute; 
+  width: 100%; height: 100%; 
+  background-color: black; opacity: .3;
+}
+
+#color_burner {
+  position: absolute; 
+  width: 100%; height: 100%; 
+  background-color: black; opacity:.4; 
+  mix-blend-mode: overlay;
+}
+
+#gradient {
+  display:inline-block;
+  background-image: -webkit-linear-gradient(bottom, rgba(24,118,188,1) 40%, rgba(125,185,232,0) 100%);
+  background-image: -moz-linear-gradient(bottom, rgba(24,118,188,1) 40%, rgba(125,185,232,0) 100%);
+  background-image: -o-linear-gradient(bottom, rgba(24,118,188,1) 40%, rgba(125,185,232,0) 100%);
+  background-image: -ms-linear-gradient(bottom, rgba(24,118,188,1) 40%, rgba(125,185,232,0) 100%);
+  background-image: linear-gradient(to top, #11598e 50%, #fff);
+  position: absolute; width: 100%; height: 100%;
+  z-index: 1;
+  mix-blend-mode: multiply;
+  opacity: 1;
+}
+
+#background {
+  width: 100%; height: auto;
+}*/
