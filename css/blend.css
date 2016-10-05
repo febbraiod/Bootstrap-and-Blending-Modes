@@ -106,6 +106,56 @@ h1 {
   background-clip: content-box;
 }
 
+.col-demo {
+  background-color: #888888; 
+  text-align: center; 
+  margin-top: 20px; 
+  border: solid 1px; 
+  border-color: white;
+  min-height: 35px;
+  font-size: 1.3em;
+
+}
+
+
+@media only screen and (min-width: 1200px) {
+  .lg {
+    color: white;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .lg {
+    color: black;
+  }
+
+  .md {
+    color: white;
+  }
+
+}
+
+@media only screen and (max-width: 992px) {
+  .lg {
+    color: black;
+  }
+
+  .md {
+    color: black;
+  }
+
+  .sm {
+    color: white;
+  }
+}
+
+
+
+/*xs <= 768px 
+sm >= 768px 
+md >=992px 
+lg >= 1200px*/
+
 /*
 #color_darkener{
   position: absolute; 
