@@ -14,3 +14,16 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
+
+
+$(function(){
+  start_ani();
+});
+
+function start_ani(){
+  $('#draw').click(function(){
+      $('#clickme').hide();
+      $('.path').addClass('path_go');
+      setTimeout(function(){$('.path2').addClass('path_go');}, 1000);
+  });
+}
