@@ -5,5 +5,8 @@ class MainController < ApplicationController
 
   def dashoffset
   end
+
+  def spooky
+  end
   
 end

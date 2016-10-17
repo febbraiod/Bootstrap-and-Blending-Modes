@@ -4,4 +4,6 @@ Rails.application.routes.draw do
 
   get '/blending' => 'main#blending'
   get '/dashoffset_demo' => 'main#dashoffset'
+  get '/spooky' => 'main#spooky'
+
 end

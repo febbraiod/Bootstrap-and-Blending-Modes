@@ -1,0 +1,33 @@
+#haunted_house {
+  background-image: image-url('hauntedhouse.jpg');
+  min-height: 800px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  
+}
+
+#spooky_type_paths {
+  max-width: 75%;
+}
+
+.spooky_text {
+  fill: black;
+  stroke: #0dd302;
+  stroke-miterlimit: 10;
+  stroke-dasharray: 500;
+  stroke-dashoffset: 1500;
+  -webkit-transition: all 6s;
+  transition: all 6s;
+  mix-blend-mode: color-dodge;
+}
+
+.write {
+  stroke-dashoffset: -1500;
+  stroke-dasharray: 0;
+  fill: #0dd302;
+  
+}
+
+.spooky_text_filled {
+  stroke-width: 0;
+}
