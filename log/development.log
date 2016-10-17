@@ -19150,3 +19150,289 @@ Started GET "/spooky" for ::1 at 2016-10-16 22:51:51 -0400
 Processing by MainController#spooky as HTML
   Rendered main/spooky.html.erb within layouts/application (0.8ms)
 Completed 200 OK in 27ms (Views: 26.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/dashoffset_demo" for ::1 at 2016-10-17 11:57:23 -0400
+Processing by MainController#dashoffset as HTML
+  Rendered main/dashoffset.html.erb within layouts/application (14.2ms)
+Completed 200 OK in 3218ms (Views: 3171.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blend.self-b65e5fa20f69dcb1bb82c7ed51c0865fcda450364c4573eeafdc5bd7338e27b0.css?body=1" for ::1 at 2016-10-17 11:57:27 -0400
+
+
+Started GET "/assets/spooky.self-69365d1b7aa6e1f40c28f9a59e1663a99b2d4916829fcbfa5df6d4cc4ab40675.css?body=1" for ::1 at 2016-10-17 11:57:28 -0400
+
+
+Started GET "/assets/haunted.self-79436a4cfd17633112a36c6b0d1f1d191072b0c0fbd324381ae05afddae2a146.css?body=1" for ::1 at 2016-10-17 11:57:28 -0400
+
+
+Started GET "/assets/bootstrap-theme.self-46aa0d625281d56889ad09085c55709afc0af4816a41aa852cda86d6f120a86c.css?body=1" for ::1 at 2016-10-17 11:57:28 -0400
+
+
+Started GET "/assets/bootstrap.min.self-511807f34f490c5d04f397a2ad4fc4a9135fcb5300f3dd5cb88f1cf678357cf3.css?body=1" for ::1 at 2016-10-17 11:57:28 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.self-3a9e70d08573b263427c5a00c46e60fbff2b490a805d7eefbe6633086b13eae4.css?body=1" for ::1 at 2016-10-17 11:57:28 -0400
+
+
+Started GET "/assets/bootstrap.self-ce4ff876691504f0f28b3c9bae0e691c640bbc9e2c4aa6dc2fe9fe0fe7e9bb1b.css?body=1" for ::1 at 2016-10-17 11:57:28 -0400
+
+
+Started GET "/assets/main.self-0e49196e3353d005a53ec5cf81c9fbfa8e9636bcac662e0d67a3d4c9dcdaee53.css?body=1" for ::1 at 2016-10-17 11:57:28 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-10-17 11:57:28 -0400
+
+
+Started GET "/assets/application.self-21e78928a9624afd8aec2649292afe10562f1771d87a5b2e0653dc8950ff95ee.css?body=1" for ::1 at 2016-10-17 11:57:28 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-10-17 11:57:28 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-10-17 11:57:28 -0400
+
+
+Started GET "/assets/dashoffset.self-79fc76a9507788d99356ac13abfb797f9a129e30cdba7dc94120f4412b0a6aff.js?body=1" for ::1 at 2016-10-17 11:57:28 -0400
+
+
+Started GET "/assets/main.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-10-17 11:57:28 -0400
+
+
+Started GET "/assets/spooky.self-90f690dee75a3dc24ba7f2127eac8dcede367fc0263c686b421babdb019781b9.js?body=1" for ::1 at 2016-10-17 11:57:28 -0400
+
+
+Started GET "/assets/application.self-fbcad93e71ebe8c0dee3cccc520d134b6d07cb8d696931bd1cae6df787a85a32.js?body=1" for ::1 at 2016-10-17 11:57:28 -0400
+
+
+Started GET "/dashoffset_demo" for ::1 at 2016-10-17 11:58:32 -0400
+Processing by MainController#dashoffset as HTML
+  Rendered main/dashoffset.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 910ms (Views: 907.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-theme.self-46aa0d625281d56889ad09085c55709afc0af4816a41aa852cda86d6f120a86c.css?body=1" for ::1 at 2016-10-17 11:58:33 -0400
+
+
+Started GET "/assets/bootstrap.self-ce4ff876691504f0f28b3c9bae0e691c640bbc9e2c4aa6dc2fe9fe0fe7e9bb1b.css?body=1" for ::1 at 2016-10-17 11:58:33 -0400
+
+
+Started GET "/assets/haunted.self-79436a4cfd17633112a36c6b0d1f1d191072b0c0fbd324381ae05afddae2a146.css?body=1" for ::1 at 2016-10-17 11:58:33 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.self-3a9e70d08573b263427c5a00c46e60fbff2b490a805d7eefbe6633086b13eae4.css?body=1" for ::1 at 2016-10-17 11:58:33 -0400
+
+
+Started GET "/assets/bootstrap.min.self-511807f34f490c5d04f397a2ad4fc4a9135fcb5300f3dd5cb88f1cf678357cf3.css?body=1" for ::1 at 2016-10-17 11:58:33 -0400
+
+
+Started GET "/assets/blend.self-b65e5fa20f69dcb1bb82c7ed51c0865fcda450364c4573eeafdc5bd7338e27b0.css?body=1" for ::1 at 2016-10-17 11:58:33 -0400
+
+
+Started GET "/assets/main.self-0e49196e3353d005a53ec5cf81c9fbfa8e9636bcac662e0d67a3d4c9dcdaee53.css?body=1" for ::1 at 2016-10-17 11:58:33 -0400
+
+
+Started GET "/assets/spooky.self-69365d1b7aa6e1f40c28f9a59e1663a99b2d4916829fcbfa5df6d4cc4ab40675.css?body=1" for ::1 at 2016-10-17 11:58:33 -0400
+
+
+Started GET "/assets/application.self-21e78928a9624afd8aec2649292afe10562f1771d87a5b2e0653dc8950ff95ee.css?body=1" for ::1 at 2016-10-17 11:58:33 -0400
+
+
+Started GET "/assets/dashoffset.self-d0e9f21a72cd18385587d93f2d11e8d0ab731af9ece19686e1526da8ff88e22d.js?body=1" for ::1 at 2016-10-17 11:58:33 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-10-17 11:58:33 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-10-17 11:58:33 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-10-17 11:58:33 -0400
+
+
+Started GET "/assets/main.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-10-17 11:58:33 -0400
+
+
+Started GET "/assets/spooky.self-90f690dee75a3dc24ba7f2127eac8dcede367fc0263c686b421babdb019781b9.js?body=1" for ::1 at 2016-10-17 11:58:33 -0400
+
+
+Started GET "/assets/application.self-fbcad93e71ebe8c0dee3cccc520d134b6d07cb8d696931bd1cae6df787a85a32.js?body=1" for ::1 at 2016-10-17 11:58:33 -0400
+
+
+Started GET "/spooky" for ::1 at 2016-10-17 12:16:24 -0400
+Processing by MainController#spooky as HTML
+  Rendered main/spooky.html.erb within layouts/application (12.8ms)
+Completed 200 OK in 354ms (Views: 324.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/hauntedhouse-2f6941c1d08311390f049fe815c48405d436a794a3f20e5293336a566b15bb74.jpg" for ::1 at 2016-10-17 12:16:26 -0400
+
+
+Started GET "/spooky" for ::1 at 2016-10-17 12:16:32 -0400
+Processing by MainController#spooky as HTML
+  Rendered main/spooky.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 261ms (Views: 258.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-theme.min.self-3a9e70d08573b263427c5a00c46e60fbff2b490a805d7eefbe6633086b13eae4.css?body=1" for ::1 at 2016-10-17 12:16:33 -0400
+
+
+Started GET "/assets/bootstrap-theme.self-46aa0d625281d56889ad09085c55709afc0af4816a41aa852cda86d6f120a86c.css?body=1" for ::1 at 2016-10-17 12:16:33 -0400
+
+
+Started GET "/assets/haunted.self-79436a4cfd17633112a36c6b0d1f1d191072b0c0fbd324381ae05afddae2a146.css?body=1" for ::1 at 2016-10-17 12:16:33 -0400
+
+
+Started GET "/assets/blend.self-b65e5fa20f69dcb1bb82c7ed51c0865fcda450364c4573eeafdc5bd7338e27b0.css?body=1" for ::1 at 2016-10-17 12:16:33 -0400
+
+
+Started GET "/assets/bootstrap.self-ce4ff876691504f0f28b3c9bae0e691c640bbc9e2c4aa6dc2fe9fe0fe7e9bb1b.css?body=1" for ::1 at 2016-10-17 12:16:33 -0400
+
+
+Started GET "/assets/bootstrap.min.self-511807f34f490c5d04f397a2ad4fc4a9135fcb5300f3dd5cb88f1cf678357cf3.css?body=1" for ::1 at 2016-10-17 12:16:33 -0400
+
+
+Started GET "/assets/main.self-0e49196e3353d005a53ec5cf81c9fbfa8e9636bcac662e0d67a3d4c9dcdaee53.css?body=1" for ::1 at 2016-10-17 12:16:33 -0400
+
+
+Started GET "/assets/spooky.self-69365d1b7aa6e1f40c28f9a59e1663a99b2d4916829fcbfa5df6d4cc4ab40675.css?body=1" for ::1 at 2016-10-17 12:16:33 -0400
+
+
+Started GET "/assets/application.self-21e78928a9624afd8aec2649292afe10562f1771d87a5b2e0653dc8950ff95ee.css?body=1" for ::1 at 2016-10-17 12:16:33 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-10-17 12:16:33 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-10-17 12:16:33 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-10-17 12:16:33 -0400
+
+
+Started GET "/assets/dashoffset.self-d0e9f21a72cd18385587d93f2d11e8d0ab731af9ece19686e1526da8ff88e22d.js?body=1" for ::1 at 2016-10-17 12:16:33 -0400
+
+
+Started GET "/assets/main.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-10-17 12:16:33 -0400
+
+
+Started GET "/assets/spooky.self-90f690dee75a3dc24ba7f2127eac8dcede367fc0263c686b421babdb019781b9.js?body=1" for ::1 at 2016-10-17 12:16:33 -0400
+
+
+Started GET "/assets/application.self-fbcad93e71ebe8c0dee3cccc520d134b6d07cb8d696931bd1cae6df787a85a32.js?body=1" for ::1 at 2016-10-17 12:16:33 -0400
+
+
+Started GET "/spooky" for ::1 at 2016-10-17 12:16:40 -0400
+Processing by MainController#spooky as HTML
+  Rendered main/spooky.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 425ms (Views: 423.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blend.self-b65e5fa20f69dcb1bb82c7ed51c0865fcda450364c4573eeafdc5bd7338e27b0.css?body=1" for ::1 at 2016-10-17 12:16:41 -0400
+
+
+Started GET "/assets/bootstrap-theme.self-46aa0d625281d56889ad09085c55709afc0af4816a41aa852cda86d6f120a86c.css?body=1" for ::1 at 2016-10-17 12:16:41 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.self-3a9e70d08573b263427c5a00c46e60fbff2b490a805d7eefbe6633086b13eae4.css?body=1" for ::1 at 2016-10-17 12:16:41 -0400
+
+
+Started GET "/assets/bootstrap.self-ce4ff876691504f0f28b3c9bae0e691c640bbc9e2c4aa6dc2fe9fe0fe7e9bb1b.css?body=1" for ::1 at 2016-10-17 12:16:41 -0400
+
+
+Started GET "/assets/haunted.self-79436a4cfd17633112a36c6b0d1f1d191072b0c0fbd324381ae05afddae2a146.css?body=1" for ::1 at 2016-10-17 12:16:41 -0400
+
+
+Started GET "/assets/bootstrap.min.self-511807f34f490c5d04f397a2ad4fc4a9135fcb5300f3dd5cb88f1cf678357cf3.css?body=1" for ::1 at 2016-10-17 12:16:41 -0400
+
+
+Started GET "/assets/main.self-0e49196e3353d005a53ec5cf81c9fbfa8e9636bcac662e0d67a3d4c9dcdaee53.css?body=1" for ::1 at 2016-10-17 12:16:41 -0400
+
+
+Started GET "/assets/spooky.self-69365d1b7aa6e1f40c28f9a59e1663a99b2d4916829fcbfa5df6d4cc4ab40675.css?body=1" for ::1 at 2016-10-17 12:16:41 -0400
+
+
+Started GET "/assets/application.self-21e78928a9624afd8aec2649292afe10562f1771d87a5b2e0653dc8950ff95ee.css?body=1" for ::1 at 2016-10-17 12:16:41 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-10-17 12:16:41 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-10-17 12:16:41 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-10-17 12:16:41 -0400
+
+
+Started GET "/assets/dashoffset.self-d0e9f21a72cd18385587d93f2d11e8d0ab731af9ece19686e1526da8ff88e22d.js?body=1" for ::1 at 2016-10-17 12:16:41 -0400
+
+
+Started GET "/assets/main.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-10-17 12:16:42 -0400
+
+
+Started GET "/assets/spooky.self-90f690dee75a3dc24ba7f2127eac8dcede367fc0263c686b421babdb019781b9.js?body=1" for ::1 at 2016-10-17 12:16:42 -0400
+
+
+Started GET "/assets/application.self-fbcad93e71ebe8c0dee3cccc520d134b6d07cb8d696931bd1cae6df787a85a32.js?body=1" for ::1 at 2016-10-17 12:16:42 -0400
+
+
+Started GET "/" for ::1 at 2016-10-17 12:53:57 -0400
+Processing by MainController#grid as HTML
+  Rendered main/grid.html within layouts/application (9.9ms)
+Completed 200 OK in 155ms (Views: 149.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/haunted.self-79436a4cfd17633112a36c6b0d1f1d191072b0c0fbd324381ae05afddae2a146.css?body=1" for ::1 at 2016-10-17 12:53:58 -0400
+
+
+Started GET "/assets/spooky.self-69365d1b7aa6e1f40c28f9a59e1663a99b2d4916829fcbfa5df6d4cc4ab40675.css?body=1" for ::1 at 2016-10-17 12:53:58 -0400
+
+
+Started GET "/assets/dashoffset.self-d0e9f21a72cd18385587d93f2d11e8d0ab731af9ece19686e1526da8ff88e22d.js?body=1" for ::1 at 2016-10-17 12:53:58 -0400
+
+
+Started GET "/js/bootstrap.min.js" for ::1 at 2016-10-17 12:53:58 -0400
+
+ActionController::RoutingError (No route matches [GET] "/js/bootstrap.min.js"):
+  actionpack (4.2.5.2) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.5.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5.2) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5.2) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5.2) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5.2) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5.2) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/DonAndMimi/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /Users/DonAndMimi/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /Users/DonAndMimi/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /Users/DonAndMimi/.rvm/gems/ruby-2.2.3/gems/actionpack-4.2.5.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.0ms)
+  Rendered /Users/DonAndMimi/.rvm/gems/ruby-2.2.3/gems/actionpack-4.2.5.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb (3.0ms)
+  Rendered /Users/DonAndMimi/.rvm/gems/ruby-2.2.3/gems/actionpack-4.2.5.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (18.3ms)
+  Rendered /Users/DonAndMimi/.rvm/gems/ruby-2.2.3/gems/actionpack-4.2.5.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.7ms)
+  Rendered /Users/DonAndMimi/.rvm/gems/ruby-2.2.3/gems/actionpack-4.2.5.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (189.7ms)
+  Rendered /Users/DonAndMimi/.rvm/gems/ruby-2.2.3/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /Users/DonAndMimi/.rvm/gems/ruby-2.2.3/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /Users/DonAndMimi/.rvm/gems/ruby-2.2.3/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/DonAndMimi/.rvm/gems/ruby-2.2.3/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/DonAndMimi/.rvm/gems/ruby-2.2.3/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (83.9ms)
+  Rendered /Users/DonAndMimi/.rvm/gems/ruby-2.2.3/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.7ms)
+  Rendered /Users/DonAndMimi/.rvm/gems/ruby-2.2.3/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)
+  Rendered /Users/DonAndMimi/.rvm/gems/ruby-2.2.3/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (173.7ms)
