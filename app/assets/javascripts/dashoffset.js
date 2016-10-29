@@ -5,3 +5,5 @@ function start_ani(){
       setTimeout(function(){$('.path2').addClass('path_go');}, 500);
   });
 }
+
+
