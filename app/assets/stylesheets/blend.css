@@ -6,6 +6,22 @@ body {
   min-height: 100%;
 }
 
+#oslider {
+  position: fixed;
+  right: 100px;
+  z-index: 2;
+}
+
+ #oslider .slider-track-high {
+  background-color: grey;
+}
+
+#oslider .slider-track {
+    background-image: -webkit-linear-gradient(top, #000000 0%, #000000 100%);
+    background-image: -o-linear-gradient(top, #000000 0%, #000000 100%);
+    background-image: linear-gradient(to bottom, #000000 0%, #000000 100%);
+  }
+
 .row {
   margin-bottom: 15px;
 }

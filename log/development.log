@@ -28535,3 +28535,1129 @@ Started GET "/assets/bootstrap.min.css.map" for ::1 at 2016-11-02 13:54:10 -0400
 
 
 Started GET "/assets/bootstrap.css.map" for ::1 at 2016-11-02 13:54:10 -0400
+
+
+Started GET "/blending" for ::1 at 2016-11-02 13:56:58 -0400
+Processing by MainController#blending as HTML
+  Rendered main/_blendpartial.html.erb (1.0ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/blending.html.erb within layouts/application (101.7ms)
+Completed 200 OK in 1813ms (Views: 1777.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blend.self-f475547d42a0db8b9b952bfc6e6f59e4534f6af11a58958a63ed07b4a8ec14a0.css?body=1" for ::1 at 2016-11-02 13:57:00 -0400
+
+
+Started GET "/assets/bootstrap-theme.self-46aa0d625281d56889ad09085c55709afc0af4816a41aa852cda86d6f120a86c.css?body=1" for ::1 at 2016-11-02 13:57:00 -0400
+
+
+Started GET "/assets/bootstrap.self-ce4ff876691504f0f28b3c9bae0e691c640bbc9e2c4aa6dc2fe9fe0fe7e9bb1b.css?body=1" for ::1 at 2016-11-02 13:57:00 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.self-3a9e70d08573b263427c5a00c46e60fbff2b490a805d7eefbe6633086b13eae4.css?body=1" for ::1 at 2016-11-02 13:57:00 -0400
+
+
+Started GET "/assets/haunted.self-79436a4cfd17633112a36c6b0d1f1d191072b0c0fbd324381ae05afddae2a146.css?body=1" for ::1 at 2016-11-02 13:57:00 -0400
+
+
+Started GET "/assets/main.self-68bb188554ab22fa17a38f5c6fb3e113bad353a7fc55e2e971bfb437745ba46d.css?body=1" for ::1 at 2016-11-02 13:57:00 -0400
+
+
+Started GET "/assets/bootstrap.min.self-511807f34f490c5d04f397a2ad4fc4a9135fcb5300f3dd5cb88f1cf678357cf3.css?body=1" for ::1 at 2016-11-02 13:57:00 -0400
+
+
+Started GET "/assets/spooky.self-69365d1b7aa6e1f40c28f9a59e1663a99b2d4916829fcbfa5df6d4cc4ab40675.css?body=1" for ::1 at 2016-11-02 13:57:01 -0400
+
+
+Started GET "/assets/application.self-21e78928a9624afd8aec2649292afe10562f1771d87a5b2e0653dc8950ff95ee.css?body=1" for ::1 at 2016-11-02 13:57:01 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-02 13:57:01 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-02 13:57:01 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-11-02 13:57:01 -0400
+
+
+Started GET "/assets/blend.self-5d2aa361c874a22bbafafc541eca1227d22952b23a6f98295e96291dc5913293.js?body=1" for ::1 at 2016-11-02 13:57:01 -0400
+
+
+Started GET "/assets/dashoffset.self-2d445dcec2d1250f532463bf5893294cb8d9f32b3fc3e9c1cf0123c13e01cf4a.js?body=1" for ::1 at 2016-11-02 13:57:01 -0400
+
+
+Started GET "/assets/spooky.self-34f7b648a3f2ef2249e07aa45d71a788c74f89f87a7b372d905a5f6d11a1909c.js?body=1" for ::1 at 2016-11-02 13:57:01 -0400
+
+
+Started GET "/assets/main.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-11-02 13:57:01 -0400
+
+
+Started GET "/assets/application.self-fbcad93e71ebe8c0dee3cccc520d134b6d07cb8d696931bd1cae6df787a85a32.js?body=1" for ::1 at 2016-11-02 13:57:01 -0400
+
+
+Started GET "/blending" for ::1 at 2016-11-02 13:57:21 -0400
+Processing by MainController#blending as HTML
+  Rendered main/_blendpartial.html.erb (0.3ms)
+  Rendered main/_blendpartial.html.erb (0.3ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.3ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/blending.html.erb within layouts/application (148.1ms)
+Completed 200 OK in 532ms (Views: 529.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blend.self-097ed06d1b590fa0d6d97be5e46e72b61f63de0e27934045bccffb040b816ee4.css?body=1" for ::1 at 2016-11-02 13:57:21 -0400
+
+
+Started GET "/blending" for ::1 at 2016-11-02 13:57:37 -0400
+Processing by MainController#blending as HTML
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.3ms)
+  Rendered main/blending.html.erb within layouts/application (76.6ms)
+Completed 200 OK in 339ms (Views: 338.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blend.self-cd232744f6ea59e825dd1e68135320080368297f30d9d887cc890423ddb87a77.css?body=1" for ::1 at 2016-11-02 13:57:37 -0400
+
+
+Started GET "/blending" for ::1 at 2016-11-02 13:57:58 -0400
+Processing by MainController#blending as HTML
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/blending.html.erb within layouts/application (75.0ms)
+Completed 200 OK in 374ms (Views: 372.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blend.self-8660ec166f4bb715064e901ab35c31fd02a0cb9c50e48af964ae55aa9ffbe00c.css?body=1" for ::1 at 2016-11-02 13:57:59 -0400
+
+
+Started GET "/blending" for ::1 at 2016-11-02 13:58:17 -0400
+Processing by MainController#blending as HTML
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/blending.html.erb within layouts/application (78.9ms)
+Completed 200 OK in 415ms (Views: 414.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blend.self-70bc957b67606b74f90322e9d98ff4f607b0b2eda6e31b2dcca28f6b59cebfad.css?body=1" for ::1 at 2016-11-02 13:58:18 -0400
+
+
+Started GET "/blending" for ::1 at 2016-11-02 13:59:16 -0400
+Processing by MainController#blending as HTML
+  Rendered main/_blendpartial.html.erb (1.5ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/blending.html.erb within layouts/application (134.4ms)
+Completed 200 OK in 343ms (Views: 341.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/blending" for ::1 at 2016-11-02 13:59:38 -0400
+Processing by MainController#blending as HTML
+  Rendered main/_blendpartial.html.erb (0.3ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (2.6ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.5ms)
+  Rendered main/blending.html.erb within layouts/application (220.2ms)
+Completed 200 OK in 515ms (Views: 513.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/blending" for ::1 at 2016-11-02 14:00:08 -0400
+Processing by MainController#blending as HTML
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.4ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.3ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (1.3ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.3ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/blending.html.erb within layouts/application (117.6ms)
+Completed 200 OK in 465ms (Views: 463.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blend.self-1fc97b518d115d8ef1660fa34f1fefdba71e70709ce491d2ebe02569559b80a2.css?body=1" for ::1 at 2016-11-02 14:00:08 -0400
+
+
+Started GET "/blending" for ::1 at 2016-11-02 14:00:33 -0400
+Processing by MainController#blending as HTML
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.8ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/blending.html.erb within layouts/application (139.5ms)
+Completed 200 OK in 306ms (Views: 304.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-theme.css.map" for ::1 at 2016-11-02 14:00:44 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.css.map" for ::1 at 2016-11-02 14:00:44 -0400
+
+
+Started GET "/assets/bootstrap.css.map" for ::1 at 2016-11-02 14:00:44 -0400
+
+
+Started GET "/assets/bootstrap.min.css.map" for ::1 at 2016-11-02 14:00:44 -0400
+
+
+Started GET "/blending" for ::1 at 2016-11-02 14:01:29 -0400
+Processing by MainController#blending as HTML
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.3ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/blending.html.erb within layouts/application (91.2ms)
+Completed 200 OK in 404ms (Views: 402.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blend.self-0c6de73fc5ed417a55a86672f005deb9c6e105464c02fc03fd9b99e8572776fe.css?body=1" for ::1 at 2016-11-02 14:01:29 -0400
+
+
+Started GET "/assets/bootstrap-theme.self-46aa0d625281d56889ad09085c55709afc0af4816a41aa852cda86d6f120a86c.css?body=1" for ::1 at 2016-11-02 14:01:30 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.self-3a9e70d08573b263427c5a00c46e60fbff2b490a805d7eefbe6633086b13eae4.css?body=1" for ::1 at 2016-11-02 14:01:30 -0400
+
+
+Started GET "/assets/bootstrap.self-ce4ff876691504f0f28b3c9bae0e691c640bbc9e2c4aa6dc2fe9fe0fe7e9bb1b.css?body=1" for ::1 at 2016-11-02 14:01:30 -0400
+
+
+Started GET "/assets/bootstrap.min.self-511807f34f490c5d04f397a2ad4fc4a9135fcb5300f3dd5cb88f1cf678357cf3.css?body=1" for ::1 at 2016-11-02 14:01:30 -0400
+
+
+Started GET "/assets/main.self-68bb188554ab22fa17a38f5c6fb3e113bad353a7fc55e2e971bfb437745ba46d.css?body=1" for ::1 at 2016-11-02 14:01:30 -0400
+
+
+Started GET "/assets/haunted.self-79436a4cfd17633112a36c6b0d1f1d191072b0c0fbd324381ae05afddae2a146.css?body=1" for ::1 at 2016-11-02 14:01:30 -0400
+
+
+Started GET "/assets/spooky.self-69365d1b7aa6e1f40c28f9a59e1663a99b2d4916829fcbfa5df6d4cc4ab40675.css?body=1" for ::1 at 2016-11-02 14:01:30 -0400
+
+
+Started GET "/assets/application.self-21e78928a9624afd8aec2649292afe10562f1771d87a5b2e0653dc8950ff95ee.css?body=1" for ::1 at 2016-11-02 14:01:30 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-02 14:01:30 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-02 14:01:30 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-11-02 14:01:30 -0400
+
+
+Started GET "/assets/blend.self-5d2aa361c874a22bbafafc541eca1227d22952b23a6f98295e96291dc5913293.js?body=1" for ::1 at 2016-11-02 14:01:30 -0400
+
+
+Started GET "/assets/dashoffset.self-2d445dcec2d1250f532463bf5893294cb8d9f32b3fc3e9c1cf0123c13e01cf4a.js?body=1" for ::1 at 2016-11-02 14:01:30 -0400
+
+
+Started GET "/assets/main.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-11-02 14:01:30 -0400
+
+
+Started GET "/assets/spooky.self-34f7b648a3f2ef2249e07aa45d71a788c74f89f87a7b372d905a5f6d11a1909c.js?body=1" for ::1 at 2016-11-02 14:01:30 -0400
+
+
+Started GET "/assets/application.self-fbcad93e71ebe8c0dee3cccc520d134b6d07cb8d696931bd1cae6df787a85a32.js?body=1" for ::1 at 2016-11-02 14:01:30 -0400
+
+
+Started GET "/assets/bootstrap-theme.css.map" for ::1 at 2016-11-02 14:01:30 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.css.map" for ::1 at 2016-11-02 14:01:30 -0400
+
+
+Started GET "/assets/bootstrap.css.map" for ::1 at 2016-11-02 14:01:30 -0400
+
+
+Started GET "/assets/bootstrap.min.css.map" for ::1 at 2016-11-02 14:01:31 -0400
+
+
+Started GET "/blending" for ::1 at 2016-11-02 14:02:28 -0400
+Processing by MainController#blending as HTML
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.4ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.3ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/blending.html.erb within layouts/application (129.9ms)
+Completed 200 OK in 302ms (Views: 300.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blend.self-0c6de73fc5ed417a55a86672f005deb9c6e105464c02fc03fd9b99e8572776fe.css?body=1" for ::1 at 2016-11-02 14:02:28 -0400
+
+
+Started GET "/assets/bootstrap.self-ce4ff876691504f0f28b3c9bae0e691c640bbc9e2c4aa6dc2fe9fe0fe7e9bb1b.css?body=1" for ::1 at 2016-11-02 14:02:28 -0400
+
+
+Started GET "/assets/bootstrap.min.self-511807f34f490c5d04f397a2ad4fc4a9135fcb5300f3dd5cb88f1cf678357cf3.css?body=1" for ::1 at 2016-11-02 14:02:28 -0400
+
+
+Started GET "/assets/bootstrap-theme.self-46aa0d625281d56889ad09085c55709afc0af4816a41aa852cda86d6f120a86c.css?body=1" for ::1 at 2016-11-02 14:02:28 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.self-3a9e70d08573b263427c5a00c46e60fbff2b490a805d7eefbe6633086b13eae4.css?body=1" for ::1 at 2016-11-02 14:02:28 -0400
+
+
+Started GET "/assets/main.self-68bb188554ab22fa17a38f5c6fb3e113bad353a7fc55e2e971bfb437745ba46d.css?body=1" for ::1 at 2016-11-02 14:02:29 -0400
+
+
+Started GET "/assets/haunted.self-79436a4cfd17633112a36c6b0d1f1d191072b0c0fbd324381ae05afddae2a146.css?body=1" for ::1 at 2016-11-02 14:02:29 -0400
+
+
+Started GET "/assets/spooky.self-69365d1b7aa6e1f40c28f9a59e1663a99b2d4916829fcbfa5df6d4cc4ab40675.css?body=1" for ::1 at 2016-11-02 14:02:29 -0400
+
+
+Started GET "/assets/application.self-21e78928a9624afd8aec2649292afe10562f1771d87a5b2e0653dc8950ff95ee.css?body=1" for ::1 at 2016-11-02 14:02:29 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-02 14:02:29 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-02 14:02:29 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-11-02 14:02:29 -0400
+
+
+Started GET "/assets/blend.self-5d2aa361c874a22bbafafc541eca1227d22952b23a6f98295e96291dc5913293.js?body=1" for ::1 at 2016-11-02 14:02:29 -0400
+
+
+Started GET "/assets/dashoffset.self-2d445dcec2d1250f532463bf5893294cb8d9f32b3fc3e9c1cf0123c13e01cf4a.js?body=1" for ::1 at 2016-11-02 14:02:29 -0400
+
+
+Started GET "/assets/main.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-11-02 14:02:29 -0400
+
+
+Started GET "/assets/spooky.self-34f7b648a3f2ef2249e07aa45d71a788c74f89f87a7b372d905a5f6d11a1909c.js?body=1" for ::1 at 2016-11-02 14:02:29 -0400
+
+
+Started GET "/assets/application.self-fbcad93e71ebe8c0dee3cccc520d134b6d07cb8d696931bd1cae6df787a85a32.js?body=1" for ::1 at 2016-11-02 14:02:29 -0400
+
+
+Started GET "/assets/bootstrap-theme.css.map" for ::1 at 2016-11-02 14:02:29 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.css.map" for ::1 at 2016-11-02 14:02:29 -0400
+
+
+Started GET "/assets/bootstrap.css.map" for ::1 at 2016-11-02 14:02:29 -0400
+
+
+Started GET "/assets/bootstrap.min.css.map" for ::1 at 2016-11-02 14:02:29 -0400
+
+
+Started GET "/blending" for ::1 at 2016-11-02 14:02:55 -0400
+Processing by MainController#blending as HTML
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.3ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/blending.html.erb within layouts/application (126.7ms)
+Completed 200 OK in 577ms (Views: 573.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blend.self-5ebdf59ebe81642a066d9470b5faef42b6e96d01d804d2f3434a450437204963.css?body=1" for ::1 at 2016-11-02 14:02:56 -0400
+
+
+Started GET "/assets/bootstrap-theme.self-46aa0d625281d56889ad09085c55709afc0af4816a41aa852cda86d6f120a86c.css?body=1" for ::1 at 2016-11-02 14:02:56 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.self-3a9e70d08573b263427c5a00c46e60fbff2b490a805d7eefbe6633086b13eae4.css?body=1" for ::1 at 2016-11-02 14:02:56 -0400
+
+
+Started GET "/assets/haunted.self-79436a4cfd17633112a36c6b0d1f1d191072b0c0fbd324381ae05afddae2a146.css?body=1" for ::1 at 2016-11-02 14:02:56 -0400
+
+
+Started GET "/assets/bootstrap.self-ce4ff876691504f0f28b3c9bae0e691c640bbc9e2c4aa6dc2fe9fe0fe7e9bb1b.css?body=1" for ::1 at 2016-11-02 14:02:56 -0400
+
+
+Started GET "/assets/bootstrap.min.self-511807f34f490c5d04f397a2ad4fc4a9135fcb5300f3dd5cb88f1cf678357cf3.css?body=1" for ::1 at 2016-11-02 14:02:56 -0400
+
+
+Started GET "/assets/main.self-68bb188554ab22fa17a38f5c6fb3e113bad353a7fc55e2e971bfb437745ba46d.css?body=1" for ::1 at 2016-11-02 14:02:56 -0400
+
+
+Started GET "/assets/spooky.self-69365d1b7aa6e1f40c28f9a59e1663a99b2d4916829fcbfa5df6d4cc4ab40675.css?body=1" for ::1 at 2016-11-02 14:02:56 -0400
+
+
+Started GET "/assets/application.self-21e78928a9624afd8aec2649292afe10562f1771d87a5b2e0653dc8950ff95ee.css?body=1" for ::1 at 2016-11-02 14:02:56 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-02 14:02:56 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-02 14:02:56 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-11-02 14:02:56 -0400
+
+
+Started GET "/assets/blend.self-5d2aa361c874a22bbafafc541eca1227d22952b23a6f98295e96291dc5913293.js?body=1" for ::1 at 2016-11-02 14:02:56 -0400
+
+
+Started GET "/assets/dashoffset.self-2d445dcec2d1250f532463bf5893294cb8d9f32b3fc3e9c1cf0123c13e01cf4a.js?body=1" for ::1 at 2016-11-02 14:02:56 -0400
+
+
+Started GET "/assets/main.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-11-02 14:02:56 -0400
+
+
+Started GET "/assets/spooky.self-34f7b648a3f2ef2249e07aa45d71a788c74f89f87a7b372d905a5f6d11a1909c.js?body=1" for ::1 at 2016-11-02 14:02:56 -0400
+
+
+Started GET "/assets/application.self-fbcad93e71ebe8c0dee3cccc520d134b6d07cb8d696931bd1cae6df787a85a32.js?body=1" for ::1 at 2016-11-02 14:02:56 -0400
+
+
+Started GET "/assets/bootstrap-theme.css.map" for ::1 at 2016-11-02 14:02:56 -0400
+
+
+Started GET "/assets/bootstrap.css.map" for ::1 at 2016-11-02 14:02:56 -0400
+
+
+Started GET "/assets/bootstrap.min.css.map" for ::1 at 2016-11-02 14:02:56 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.css.map" for ::1 at 2016-11-02 14:02:57 -0400
+
+
+Started GET "/blending" for ::1 at 2016-11-02 14:05:42 -0400
+Processing by MainController#blending as HTML
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.6ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/blending.html.erb within layouts/application (110.3ms)
+Completed 200 OK in 472ms (Views: 470.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blend.self-a11233bfec18a52ea3186111ddef6cc3e848c3b1a523a450ab3fc78db8435eeb.css?body=1" for ::1 at 2016-11-02 14:05:42 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.self-3a9e70d08573b263427c5a00c46e60fbff2b490a805d7eefbe6633086b13eae4.css?body=1" for ::1 at 2016-11-02 14:05:42 -0400
+
+
+Started GET "/assets/bootstrap.self-ce4ff876691504f0f28b3c9bae0e691c640bbc9e2c4aa6dc2fe9fe0fe7e9bb1b.css?body=1" for ::1 at 2016-11-02 14:05:42 -0400
+
+
+Started GET "/assets/bootstrap-theme.self-46aa0d625281d56889ad09085c55709afc0af4816a41aa852cda86d6f120a86c.css?body=1" for ::1 at 2016-11-02 14:05:42 -0400
+
+
+Started GET "/assets/bootstrap.min.self-511807f34f490c5d04f397a2ad4fc4a9135fcb5300f3dd5cb88f1cf678357cf3.css?body=1" for ::1 at 2016-11-02 14:05:42 -0400
+
+
+Started GET "/assets/haunted.self-79436a4cfd17633112a36c6b0d1f1d191072b0c0fbd324381ae05afddae2a146.css?body=1" for ::1 at 2016-11-02 14:05:42 -0400
+
+
+Started GET "/assets/main.self-68bb188554ab22fa17a38f5c6fb3e113bad353a7fc55e2e971bfb437745ba46d.css?body=1" for ::1 at 2016-11-02 14:05:42 -0400
+
+
+Started GET "/assets/spooky.self-69365d1b7aa6e1f40c28f9a59e1663a99b2d4916829fcbfa5df6d4cc4ab40675.css?body=1" for ::1 at 2016-11-02 14:05:42 -0400
+
+
+Started GET "/assets/application.self-21e78928a9624afd8aec2649292afe10562f1771d87a5b2e0653dc8950ff95ee.css?body=1" for ::1 at 2016-11-02 14:05:43 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-02 14:05:43 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-02 14:05:43 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-11-02 14:05:43 -0400
+
+
+Started GET "/assets/blend.self-5d2aa361c874a22bbafafc541eca1227d22952b23a6f98295e96291dc5913293.js?body=1" for ::1 at 2016-11-02 14:05:43 -0400
+
+
+Started GET "/assets/dashoffset.self-2d445dcec2d1250f532463bf5893294cb8d9f32b3fc3e9c1cf0123c13e01cf4a.js?body=1" for ::1 at 2016-11-02 14:05:43 -0400
+
+
+Started GET "/assets/spooky.self-34f7b648a3f2ef2249e07aa45d71a788c74f89f87a7b372d905a5f6d11a1909c.js?body=1" for ::1 at 2016-11-02 14:05:43 -0400
+
+
+Started GET "/assets/main.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-11-02 14:05:43 -0400
+
+
+Started GET "/assets/application.self-fbcad93e71ebe8c0dee3cccc520d134b6d07cb8d696931bd1cae6df787a85a32.js?body=1" for ::1 at 2016-11-02 14:05:43 -0400
+
+
+Started GET "/assets/bootstrap-theme.css.map" for ::1 at 2016-11-02 14:05:43 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.css.map" for ::1 at 2016-11-02 14:05:43 -0400
+
+
+Started GET "/assets/bootstrap.min.css.map" for ::1 at 2016-11-02 14:05:43 -0400
+
+
+Started GET "/assets/bootstrap.css.map" for ::1 at 2016-11-02 14:05:43 -0400
+
+
+Started GET "/blending" for ::1 at 2016-11-02 14:05:57 -0400
+Processing by MainController#blending as HTML
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/blending.html.erb within layouts/application (91.1ms)
+Completed 200 OK in 396ms (Views: 394.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blend.self-109bd2e87d4f28d85581862a77dd8f26543366344b8d40a96fd273884656205c.css?body=1" for ::1 at 2016-11-02 14:05:57 -0400
+
+
+Started GET "/assets/bootstrap-theme.self-46aa0d625281d56889ad09085c55709afc0af4816a41aa852cda86d6f120a86c.css?body=1" for ::1 at 2016-11-02 14:05:57 -0400
+
+
+Started GET "/assets/bootstrap.min.self-511807f34f490c5d04f397a2ad4fc4a9135fcb5300f3dd5cb88f1cf678357cf3.css?body=1" for ::1 at 2016-11-02 14:05:57 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.self-3a9e70d08573b263427c5a00c46e60fbff2b490a805d7eefbe6633086b13eae4.css?body=1" for ::1 at 2016-11-02 14:05:57 -0400
+
+
+Started GET "/assets/haunted.self-79436a4cfd17633112a36c6b0d1f1d191072b0c0fbd324381ae05afddae2a146.css?body=1" for ::1 at 2016-11-02 14:05:57 -0400
+
+
+Started GET "/assets/bootstrap.self-ce4ff876691504f0f28b3c9bae0e691c640bbc9e2c4aa6dc2fe9fe0fe7e9bb1b.css?body=1" for ::1 at 2016-11-02 14:05:57 -0400
+
+
+Started GET "/assets/main.self-68bb188554ab22fa17a38f5c6fb3e113bad353a7fc55e2e971bfb437745ba46d.css?body=1" for ::1 at 2016-11-02 14:05:57 -0400
+
+
+Started GET "/assets/spooky.self-69365d1b7aa6e1f40c28f9a59e1663a99b2d4916829fcbfa5df6d4cc4ab40675.css?body=1" for ::1 at 2016-11-02 14:05:57 -0400
+
+
+Started GET "/assets/application.self-21e78928a9624afd8aec2649292afe10562f1771d87a5b2e0653dc8950ff95ee.css?body=1" for ::1 at 2016-11-02 14:05:57 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-02 14:05:57 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-02 14:05:57 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-11-02 14:05:57 -0400
+
+
+Started GET "/assets/blend.self-5d2aa361c874a22bbafafc541eca1227d22952b23a6f98295e96291dc5913293.js?body=1" for ::1 at 2016-11-02 14:05:57 -0400
+
+
+Started GET "/assets/dashoffset.self-2d445dcec2d1250f532463bf5893294cb8d9f32b3fc3e9c1cf0123c13e01cf4a.js?body=1" for ::1 at 2016-11-02 14:05:57 -0400
+
+
+Started GET "/assets/main.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-11-02 14:05:57 -0400
+
+
+Started GET "/assets/spooky.self-34f7b648a3f2ef2249e07aa45d71a788c74f89f87a7b372d905a5f6d11a1909c.js?body=1" for ::1 at 2016-11-02 14:05:57 -0400
+
+
+Started GET "/assets/application.self-fbcad93e71ebe8c0dee3cccc520d134b6d07cb8d696931bd1cae6df787a85a32.js?body=1" for ::1 at 2016-11-02 14:05:57 -0400
+
+
+Started GET "/assets/bootstrap-theme.css.map" for ::1 at 2016-11-02 14:05:58 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.css.map" for ::1 at 2016-11-02 14:05:58 -0400
+
+
+Started GET "/assets/bootstrap.min.css.map" for ::1 at 2016-11-02 14:05:58 -0400
+
+
+Started GET "/assets/bootstrap.css.map" for ::1 at 2016-11-02 14:05:58 -0400
+
+
+Started GET "/blending" for ::1 at 2016-11-02 14:06:08 -0400
+Processing by MainController#blending as HTML
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/blending.html.erb within layouts/application (73.1ms)
+Completed 200 OK in 351ms (Views: 349.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blend.self-5cbecdb744c60e652db448c43049dd1ba92558bda3dd296611aee15232a91bfe.css?body=1" for ::1 at 2016-11-02 14:06:08 -0400
+
+
+Started GET "/assets/bootstrap-theme.self-46aa0d625281d56889ad09085c55709afc0af4816a41aa852cda86d6f120a86c.css?body=1" for ::1 at 2016-11-02 14:06:08 -0400
+
+
+Started GET "/assets/haunted.self-79436a4cfd17633112a36c6b0d1f1d191072b0c0fbd324381ae05afddae2a146.css?body=1" for ::1 at 2016-11-02 14:06:08 -0400
+
+
+Started GET "/assets/bootstrap.self-ce4ff876691504f0f28b3c9bae0e691c640bbc9e2c4aa6dc2fe9fe0fe7e9bb1b.css?body=1" for ::1 at 2016-11-02 14:06:08 -0400
+
+
+Started GET "/assets/bootstrap.min.self-511807f34f490c5d04f397a2ad4fc4a9135fcb5300f3dd5cb88f1cf678357cf3.css?body=1" for ::1 at 2016-11-02 14:06:08 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.self-3a9e70d08573b263427c5a00c46e60fbff2b490a805d7eefbe6633086b13eae4.css?body=1" for ::1 at 2016-11-02 14:06:08 -0400
+
+
+Started GET "/assets/main.self-68bb188554ab22fa17a38f5c6fb3e113bad353a7fc55e2e971bfb437745ba46d.css?body=1" for ::1 at 2016-11-02 14:06:08 -0400
+
+
+Started GET "/assets/spooky.self-69365d1b7aa6e1f40c28f9a59e1663a99b2d4916829fcbfa5df6d4cc4ab40675.css?body=1" for ::1 at 2016-11-02 14:06:08 -0400
+
+
+Started GET "/assets/application.self-21e78928a9624afd8aec2649292afe10562f1771d87a5b2e0653dc8950ff95ee.css?body=1" for ::1 at 2016-11-02 14:06:08 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-02 14:06:08 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-02 14:06:08 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-11-02 14:06:08 -0400
+
+
+Started GET "/assets/blend.self-5d2aa361c874a22bbafafc541eca1227d22952b23a6f98295e96291dc5913293.js?body=1" for ::1 at 2016-11-02 14:06:08 -0400
+
+
+Started GET "/assets/dashoffset.self-2d445dcec2d1250f532463bf5893294cb8d9f32b3fc3e9c1cf0123c13e01cf4a.js?body=1" for ::1 at 2016-11-02 14:06:09 -0400
+
+
+Started GET "/assets/main.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-11-02 14:06:09 -0400
+
+
+Started GET "/assets/spooky.self-34f7b648a3f2ef2249e07aa45d71a788c74f89f87a7b372d905a5f6d11a1909c.js?body=1" for ::1 at 2016-11-02 14:06:09 -0400
+
+
+Started GET "/assets/application.self-fbcad93e71ebe8c0dee3cccc520d134b6d07cb8d696931bd1cae6df787a85a32.js?body=1" for ::1 at 2016-11-02 14:06:09 -0400
+
+
+Started GET "/assets/bootstrap-theme.css.map" for ::1 at 2016-11-02 14:06:09 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.css.map" for ::1 at 2016-11-02 14:06:09 -0400
+
+
+Started GET "/assets/bootstrap.min.css.map" for ::1 at 2016-11-02 14:06:09 -0400
+
+
+Started GET "/assets/bootstrap.css.map" for ::1 at 2016-11-02 14:06:09 -0400
+
+
+Started GET "/blending" for ::1 at 2016-11-02 14:06:37 -0400
+Processing by MainController#blending as HTML
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.3ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/blending.html.erb within layouts/application (84.9ms)
+Completed 200 OK in 347ms (Views: 345.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blend.self-c99506216d408c00b800f4df0600ad0cea12497928e70929c7150aed672af1c9.css?body=1" for ::1 at 2016-11-02 14:06:37 -0400
+
+
+Started GET "/assets/bootstrap-theme.self-46aa0d625281d56889ad09085c55709afc0af4816a41aa852cda86d6f120a86c.css?body=1" for ::1 at 2016-11-02 14:06:37 -0400
+
+
+Started GET "/assets/bootstrap.self-ce4ff876691504f0f28b3c9bae0e691c640bbc9e2c4aa6dc2fe9fe0fe7e9bb1b.css?body=1" for ::1 at 2016-11-02 14:06:37 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.self-3a9e70d08573b263427c5a00c46e60fbff2b490a805d7eefbe6633086b13eae4.css?body=1" for ::1 at 2016-11-02 14:06:37 -0400
+
+
+Started GET "/assets/bootstrap.min.self-511807f34f490c5d04f397a2ad4fc4a9135fcb5300f3dd5cb88f1cf678357cf3.css?body=1" for ::1 at 2016-11-02 14:06:37 -0400
+
+
+Started GET "/assets/haunted.self-79436a4cfd17633112a36c6b0d1f1d191072b0c0fbd324381ae05afddae2a146.css?body=1" for ::1 at 2016-11-02 14:06:37 -0400
+
+
+Started GET "/assets/main.self-68bb188554ab22fa17a38f5c6fb3e113bad353a7fc55e2e971bfb437745ba46d.css?body=1" for ::1 at 2016-11-02 14:06:37 -0400
+
+
+Started GET "/assets/spooky.self-69365d1b7aa6e1f40c28f9a59e1663a99b2d4916829fcbfa5df6d4cc4ab40675.css?body=1" for ::1 at 2016-11-02 14:06:37 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-02 14:06:38 -0400
+
+
+Started GET "/assets/application.self-21e78928a9624afd8aec2649292afe10562f1771d87a5b2e0653dc8950ff95ee.css?body=1" for ::1 at 2016-11-02 14:06:38 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-02 14:06:38 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-11-02 14:06:38 -0400
+
+
+Started GET "/assets/blend.self-5d2aa361c874a22bbafafc541eca1227d22952b23a6f98295e96291dc5913293.js?body=1" for ::1 at 2016-11-02 14:06:38 -0400
+
+
+Started GET "/assets/dashoffset.self-2d445dcec2d1250f532463bf5893294cb8d9f32b3fc3e9c1cf0123c13e01cf4a.js?body=1" for ::1 at 2016-11-02 14:06:38 -0400
+
+
+Started GET "/assets/main.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-11-02 14:06:38 -0400
+
+
+Started GET "/assets/spooky.self-34f7b648a3f2ef2249e07aa45d71a788c74f89f87a7b372d905a5f6d11a1909c.js?body=1" for ::1 at 2016-11-02 14:06:38 -0400
+
+
+Started GET "/assets/application.self-fbcad93e71ebe8c0dee3cccc520d134b6d07cb8d696931bd1cae6df787a85a32.js?body=1" for ::1 at 2016-11-02 14:06:38 -0400
+
+
+Started GET "/assets/bootstrap-theme.css.map" for ::1 at 2016-11-02 14:06:38 -0400
+
+
+Started GET "/assets/bootstrap.css.map" for ::1 at 2016-11-02 14:06:38 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.css.map" for ::1 at 2016-11-02 14:06:38 -0400
+
+
+Started GET "/assets/bootstrap.min.css.map" for ::1 at 2016-11-02 14:06:38 -0400
+
+
+Started GET "/blending" for ::1 at 2016-11-02 14:06:50 -0400
+Processing by MainController#blending as HTML
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/blending.html.erb within layouts/application (54.9ms)
+Completed 200 OK in 317ms (Views: 315.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-theme.self-46aa0d625281d56889ad09085c55709afc0af4816a41aa852cda86d6f120a86c.css?body=1" for ::1 at 2016-11-02 14:06:51 -0400
+
+
+Started GET "/assets/blend.self-8a21be058a4f48ee64c667544bb9b34d96e08906ffa45232bf92e68997656905.css?body=1" for ::1 at 2016-11-02 14:06:51 -0400
+
+
+Started GET "/assets/haunted.self-79436a4cfd17633112a36c6b0d1f1d191072b0c0fbd324381ae05afddae2a146.css?body=1" for ::1 at 2016-11-02 14:06:51 -0400
+
+
+Started GET "/assets/bootstrap.self-ce4ff876691504f0f28b3c9bae0e691c640bbc9e2c4aa6dc2fe9fe0fe7e9bb1b.css?body=1" for ::1 at 2016-11-02 14:06:51 -0400
+
+
+Started GET "/assets/bootstrap.min.self-511807f34f490c5d04f397a2ad4fc4a9135fcb5300f3dd5cb88f1cf678357cf3.css?body=1" for ::1 at 2016-11-02 14:06:51 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.self-3a9e70d08573b263427c5a00c46e60fbff2b490a805d7eefbe6633086b13eae4.css?body=1" for ::1 at 2016-11-02 14:06:51 -0400
+
+
+Started GET "/assets/spooky.self-69365d1b7aa6e1f40c28f9a59e1663a99b2d4916829fcbfa5df6d4cc4ab40675.css?body=1" for ::1 at 2016-11-02 14:06:51 -0400
+
+
+Started GET "/assets/main.self-68bb188554ab22fa17a38f5c6fb3e113bad353a7fc55e2e971bfb437745ba46d.css?body=1" for ::1 at 2016-11-02 14:06:51 -0400
+
+
+Started GET "/assets/application.self-21e78928a9624afd8aec2649292afe10562f1771d87a5b2e0653dc8950ff95ee.css?body=1" for ::1 at 2016-11-02 14:06:51 -0400
+
+
+Started GET "/assets/blend.self-5d2aa361c874a22bbafafc541eca1227d22952b23a6f98295e96291dc5913293.js?body=1" for ::1 at 2016-11-02 14:06:51 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-11-02 14:06:51 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-02 14:06:51 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-02 14:06:51 -0400
+
+
+Started GET "/assets/dashoffset.self-2d445dcec2d1250f532463bf5893294cb8d9f32b3fc3e9c1cf0123c13e01cf4a.js?body=1" for ::1 at 2016-11-02 14:06:51 -0400
+
+
+Started GET "/assets/main.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-11-02 14:06:51 -0400
+
+
+Started GET "/assets/spooky.self-34f7b648a3f2ef2249e07aa45d71a788c74f89f87a7b372d905a5f6d11a1909c.js?body=1" for ::1 at 2016-11-02 14:06:51 -0400
+
+
+Started GET "/assets/application.self-fbcad93e71ebe8c0dee3cccc520d134b6d07cb8d696931bd1cae6df787a85a32.js?body=1" for ::1 at 2016-11-02 14:06:51 -0400
+
+
+Started GET "/assets/bootstrap-theme.css.map" for ::1 at 2016-11-02 14:06:51 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.css.map" for ::1 at 2016-11-02 14:06:52 -0400
+
+
+Started GET "/assets/bootstrap.css.map" for ::1 at 2016-11-02 14:06:52 -0400
+
+
+Started GET "/assets/bootstrap.min.css.map" for ::1 at 2016-11-02 14:06:52 -0400
+
+
+Started GET "/blending" for ::1 at 2016-11-02 14:09:08 -0400
+Processing by MainController#blending as HTML
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.6ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.3ms)
+  Rendered main/blending.html.erb within layouts/application (100.7ms)
+Completed 200 OK in 610ms (Views: 607.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blend.self-8a21be058a4f48ee64c667544bb9b34d96e08906ffa45232bf92e68997656905.css?body=1" for ::1 at 2016-11-02 14:09:09 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.self-3a9e70d08573b263427c5a00c46e60fbff2b490a805d7eefbe6633086b13eae4.css?body=1" for ::1 at 2016-11-02 14:09:09 -0400
+
+
+Started GET "/assets/bootstrap.self-ce4ff876691504f0f28b3c9bae0e691c640bbc9e2c4aa6dc2fe9fe0fe7e9bb1b.css?body=1" for ::1 at 2016-11-02 14:09:09 -0400
+
+
+Started GET "/assets/bootstrap.min.self-511807f34f490c5d04f397a2ad4fc4a9135fcb5300f3dd5cb88f1cf678357cf3.css?body=1" for ::1 at 2016-11-02 14:09:09 -0400
+
+
+Started GET "/assets/bootstrap-theme.self-46aa0d625281d56889ad09085c55709afc0af4816a41aa852cda86d6f120a86c.css?body=1" for ::1 at 2016-11-02 14:09:09 -0400
+
+
+Started GET "/assets/haunted.self-79436a4cfd17633112a36c6b0d1f1d191072b0c0fbd324381ae05afddae2a146.css?body=1" for ::1 at 2016-11-02 14:09:09 -0400
+
+
+Started GET "/assets/main.self-68bb188554ab22fa17a38f5c6fb3e113bad353a7fc55e2e971bfb437745ba46d.css?body=1" for ::1 at 2016-11-02 14:09:09 -0400
+
+
+Started GET "/assets/spooky.self-69365d1b7aa6e1f40c28f9a59e1663a99b2d4916829fcbfa5df6d4cc4ab40675.css?body=1" for ::1 at 2016-11-02 14:09:09 -0400
+
+
+Started GET "/assets/application.self-21e78928a9624afd8aec2649292afe10562f1771d87a5b2e0653dc8950ff95ee.css?body=1" for ::1 at 2016-11-02 14:09:10 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-02 14:09:10 -0400
+
+
+Started GET "/assets/blend.self-c9544c3edd7ab747b72ecdd739be38b0ac7ba3d1d405d4fe86a60a748e0a73be.js?body=1" for ::1 at 2016-11-02 14:09:10 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-11-02 14:09:10 -0400
+
+
+Started GET "/assets/dashoffset.self-2d445dcec2d1250f532463bf5893294cb8d9f32b3fc3e9c1cf0123c13e01cf4a.js?body=1" for ::1 at 2016-11-02 14:09:10 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-02 14:09:10 -0400
+
+
+Started GET "/assets/main.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-11-02 14:09:10 -0400
+
+
+Started GET "/assets/spooky.self-34f7b648a3f2ef2249e07aa45d71a788c74f89f87a7b372d905a5f6d11a1909c.js?body=1" for ::1 at 2016-11-02 14:09:10 -0400
+
+
+Started GET "/assets/application.self-fbcad93e71ebe8c0dee3cccc520d134b6d07cb8d696931bd1cae6df787a85a32.js?body=1" for ::1 at 2016-11-02 14:09:10 -0400
+
+
+Started GET "/assets/bootstrap.css.map" for ::1 at 2016-11-02 14:09:10 -0400
+
+
+Started GET "/assets/bootstrap.min.css.map" for ::1 at 2016-11-02 14:09:10 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.css.map" for ::1 at 2016-11-02 14:09:10 -0400
+
+
+Started GET "/assets/bootstrap-theme.css.map" for ::1 at 2016-11-02 14:09:10 -0400
+
+
+Started GET "/blending" for ::1 at 2016-11-02 14:13:46 -0400
+Processing by MainController#blending as HTML
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.2ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/blending.html.erb within layouts/application (85.6ms)
+Completed 200 OK in 559ms (Views: 552.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blend.self-d0258114139ddacae32d9c19e4666db34bc0e9c20df17c81994e0df174d6bbbb.css?body=1" for ::1 at 2016-11-02 14:13:47 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.self-3a9e70d08573b263427c5a00c46e60fbff2b490a805d7eefbe6633086b13eae4.css?body=1" for ::1 at 2016-11-02 14:13:47 -0400
+
+
+Started GET "/assets/bootstrap-theme.self-46aa0d625281d56889ad09085c55709afc0af4816a41aa852cda86d6f120a86c.css?body=1" for ::1 at 2016-11-02 14:13:47 -0400
+
+
+Started GET "/assets/bootstrap.min.self-511807f34f490c5d04f397a2ad4fc4a9135fcb5300f3dd5cb88f1cf678357cf3.css?body=1" for ::1 at 2016-11-02 14:13:47 -0400
+
+
+Started GET "/assets/bootstrap.self-ce4ff876691504f0f28b3c9bae0e691c640bbc9e2c4aa6dc2fe9fe0fe7e9bb1b.css?body=1" for ::1 at 2016-11-02 14:13:47 -0400
+
+
+Started GET "/assets/haunted.self-79436a4cfd17633112a36c6b0d1f1d191072b0c0fbd324381ae05afddae2a146.css?body=1" for ::1 at 2016-11-02 14:13:47 -0400
+
+
+Started GET "/assets/main.self-68bb188554ab22fa17a38f5c6fb3e113bad353a7fc55e2e971bfb437745ba46d.css?body=1" for ::1 at 2016-11-02 14:13:47 -0400
+
+
+Started GET "/assets/spooky.self-69365d1b7aa6e1f40c28f9a59e1663a99b2d4916829fcbfa5df6d4cc4ab40675.css?body=1" for ::1 at 2016-11-02 14:13:47 -0400
+
+
+Started GET "/assets/application.self-21e78928a9624afd8aec2649292afe10562f1771d87a5b2e0653dc8950ff95ee.css?body=1" for ::1 at 2016-11-02 14:13:47 -0400
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-02 14:13:48 -0400
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-02 14:13:48 -0400
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-11-02 14:13:48 -0400
+
+
+Started GET "/assets/blend.self-c9544c3edd7ab747b72ecdd739be38b0ac7ba3d1d405d4fe86a60a748e0a73be.js?body=1" for ::1 at 2016-11-02 14:13:48 -0400
+
+
+Started GET "/assets/dashoffset.self-2d445dcec2d1250f532463bf5893294cb8d9f32b3fc3e9c1cf0123c13e01cf4a.js?body=1" for ::1 at 2016-11-02 14:13:48 -0400
+
+
+Started GET "/assets/main.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-11-02 14:13:48 -0400
+
+
+Started GET "/assets/spooky.self-34f7b648a3f2ef2249e07aa45d71a788c74f89f87a7b372d905a5f6d11a1909c.js?body=1" for ::1 at 2016-11-02 14:13:48 -0400
+
+
+Started GET "/assets/application.self-fbcad93e71ebe8c0dee3cccc520d134b6d07cb8d696931bd1cae6df787a85a32.js?body=1" for ::1 at 2016-11-02 14:13:48 -0400
+
+
+Started GET "/assets/bootstrap-theme.css.map" for ::1 at 2016-11-02 14:13:48 -0400
+
+
+Started GET "/assets/bootstrap-theme.min.css.map" for ::1 at 2016-11-02 14:13:48 -0400
+
+
+Started GET "/assets/bootstrap.css.map" for ::1 at 2016-11-02 14:13:48 -0400
+
+
+Started GET "/assets/bootstrap.min.css.map" for ::1 at 2016-11-02 14:13:48 -0400

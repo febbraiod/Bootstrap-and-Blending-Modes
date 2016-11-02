@@ -15,5 +15,6 @@ function onSlide(){
   mySlider.slider('setValue', 100);
   mySlider.on('slide',function(e){
     $('.blender').css('opacity', e.value/100);
+    $('#oslider .slider-track-high').css('opacity', e.value/90);
   });
 }
