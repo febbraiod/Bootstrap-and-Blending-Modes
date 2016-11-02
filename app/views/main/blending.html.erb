@@ -30,12 +30,9 @@
 
 
     <div class='container-fluid'>
+      <input class='slider'>
       <div class='row'>
-        <small style='position: absolute;'>normal:</small>
-        <%= render "blendpartial" %>
-      </div>
-      <div class='row' style='opacity: .6'>
-        <small style='position: absolute'>opacity 60%:</small>
+        <small class='caption'>normal:</small>
         <%= render "blendpartial" %>
       </div>
       <div class='row' style='mix-blend-mode: multiply;'>
@@ -102,6 +99,8 @@
 
     </div>
 
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.4.0/bootstrap-slider.min.js"></script>
 <!--     think about: sliders for opacity
     click on and off blending mode
     slader to move text left and right to see different colors on different backgrounds -->
