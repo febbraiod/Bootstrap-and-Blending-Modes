@@ -11,10 +11,19 @@ function addBlendingContent(){
 // var value = mySlider.slider('getValue');
 
 function onSlide(){
-  var mySlider = $("input.slider").slider({max: 100});
+  var mySlider = $("input.slider").slider(
+                                  {max: 100, 
+                                  tooltip: 'show', 
+                                  tooltip_position: 'bottom', 
+                                  handle: 'square',
+                                  formatter: function(value){
+                                    return value + '%';
+                                  }
+                                });
+
   mySlider.slider('setValue', 100);
   mySlider.on('slide',function(e){
     $('.blender').css('opacity', e.value/100);
-    $('#oslider .slider-track-high').css('opacity', e.value/90);
+    $('#oslider .slider-track-high').css('opacity', e.value/30);
   });
 }
