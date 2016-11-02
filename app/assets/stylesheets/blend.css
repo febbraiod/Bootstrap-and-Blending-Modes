@@ -6,28 +6,31 @@ body {
   min-height: 100%;
 }
 
-h1 {
+.row {
+  margin-bottom: 15px;
+}
+
+.blender h5 {
   font-family: Helvetica;
   font-weight: bold;
-  font-size: 15vw;
+  font-size: 2.4vw;
   line-height: 1em;
-  letter-spacing: -25px;
 }
 
-.blender {
+.row .blender {
+  padding-top: 15px; 
+  padding-left: 8px;
   z-index: 1;
-}
-
-#whitetype{
-  color: white;
 }
 
 #redtype{
   color: red;
+  margin-right: 3px;
 }
 
 #greentype{
   color: green;
+  margin-right: 3px;
 }
 
 #bluetype{
@@ -36,6 +39,7 @@ h1 {
 
 #cyantype{
   color: cyan;
+  margin-right: 3px;
 }
 
 #magentatype{
@@ -44,22 +48,46 @@ h1 {
 
 #yellowtype{
   color: yellow;
+  margin-right: 3px;
 }
 
 #blacktype{
   color: black;
+  margin-right: 5px;
 }
+
+#whitetype{
+  color: white;
+}
+
+#lightgreytype{
+  color: #D3D3D3;
+  margin-right: 3px;
+}
+
+#darkgreytype{
+  color: #5C5C5C;
+}
+
 
 .tothefloor {
   min-height: 1200px;
 }
 
-.red {
-  background-color: red;
+.lightgrey{
+  background-color: #D3D3D3;
 }
 
-.redorange {
-  background-color: #ff5400;
+.darkgrey {
+  background-color: #5C5C5C;
+}
+
+.black {
+  background-color: black;
+}
+
+.red {
+  background-color: red;
 }
 
 .orange {
@@ -78,10 +106,6 @@ h1 {
   background-color: green;
 }
 
-.periwinkle{
-  background-color: #00ffd2;
-}
-
 .skyblue {
   background-color: #00eaff;
 }
@@ -92,14 +116,6 @@ h1 {
 
 .indigo {
   background-color: #2E0854;
-}
-
-.violet {
-  background-color: violet;
-}
-
-.purple {
-  background-color: purple;
 }
 
 .show_gutter{
