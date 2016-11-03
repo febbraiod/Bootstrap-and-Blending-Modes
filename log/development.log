@@ -31288,3 +31288,28 @@ Completed 200 OK in 291ms (Views: 290.2ms | ActiveRecord: 0.0ms)
 
 
 Started GET "/assets/blend.self-d7efc36b71083dc23a90f3dbee0e6eade5e0401f34d3db7a1d3e696e0df906b5.css?body=1" for ::1 at 2016-11-02 14:37:43 -0400
+
+
+Started GET "/blending" for ::1 at 2016-11-02 20:38:19 -0400
+Processing by MainController#blending as HTML
+  Rendered main/_blendpartial.html.erb (0.5ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.0ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.1ms)
+  Rendered main/_blendpartial.html.erb (0.0ms)
+  Rendered main/_blendpartial.html.erb (0.0ms)
+  Rendered main/_blendpartial.html.erb (0.0ms)
+  Rendered main/_blendpartial.html.erb (0.0ms)
+  Rendered main/_blendpartial.html.erb (0.0ms)
+  Rendered main/_blendpartial.html.erb (0.0ms)
+  Rendered main/_blendpartial.html.erb (0.0ms)
+  Rendered main/_blendpartial.html.erb (0.0ms)
+  Rendered main/_blendpartial.html.erb (0.0ms)
+  Rendered main/blending.html.erb within layouts/application (40.4ms)
+Completed 200 OK in 808ms (Views: 795.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blend.self-d7efc36b71083dc23a90f3dbee0e6eade5e0401f34d3db7a1d3e696e0df906b5.css?body=1" for ::1 at 2016-11-02 20:38:20 -0400
